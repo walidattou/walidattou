@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**walidattou/walidattou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-Here are some ideas to get you started:
+About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 FrontEnd Engineer at Razorpay
+
+📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
+
+❤️ I love writing TypeScript, and building fun experiments on type-level
+
+💬 Ask me about anything here
+
+javascript typescript react graphql nodejs
