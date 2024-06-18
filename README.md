@@ -6,7 +6,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align = "left"  alt = "Java" width = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-
+<img align = "left"  alt = "Java" width = "30px" style = "padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
