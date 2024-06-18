@@ -1,15 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm walid attou</h1>
+<h3 align="center">🌟 Electrical Engineer and aspiring software developer passionate about Python, JavaScript, HTML, and CSS. Fascinated by AI and data science, I enjoy crafting websites that blend creativity with technical excellence. Let's innovate and build something amazing together!</h3>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-About me
-
-💼 FrontEnd Engineer at Razorpay
-
-📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
-
-❤️ I love writing TypeScript, and building fun experiments on type-level
-
-💬 Ask me about anything here
-
-javascript typescript react graphql nodejs
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
