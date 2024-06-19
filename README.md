@@ -5,5 +5,6 @@
 <img align = "left"  alt = "Java" width = "50px" style = "padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align = "left"  alt = "Java" width = "50px" style = "padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align = "left"  alt = "Java" width = "50px" style = "padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<div style="clear:both;"></div>
 <hr>
 <h3 align="left">working on right now :</h3>
